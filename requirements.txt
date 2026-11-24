@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+sqlalchemy
+python-multipart
+jinja2
+plotly
+streamlit
+defusedxml
+pytest
+httpx
