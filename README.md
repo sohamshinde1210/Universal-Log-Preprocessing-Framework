@@ -20,7 +20,7 @@ ULPF is a Python-based framework that simplifies security log processing by conv
 ## Installation
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/sohamshinde1210/Universal-Log-Preprocessing-Framework.git
 cd Universal-Log-Preprocessing-Framework
 
 python -m venv .venv
